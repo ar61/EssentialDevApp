@@ -1,3 +1,6 @@
+## Credit goes to Caio Zullu and Mike Apostolakis for making this amazing crash course!
+### Go here to learn more: https://www.essentialdeveloper.com/
+
 # iOS Architect Crash Course • April 22nd to 28th, 2024 • EssentialDeveloper.com
 
 https://iosacademy.essentialdeveloper.com/ios-architect-crash-course/april-2024-f9eb/
